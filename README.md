@@ -12,13 +12,18 @@ notebook and make notes on them.
    
 4. Make one of the following Changes:
 
-• learning rate or the type of Optimizer (GANs/RNNs)
-• percentage of the Dropout (GANs/RNNs; usually for RNNs there are 2 dropout values)
-• size of the images (GANs; only if the training process does not take longer than 10 hours)
-• redesign or add a layer (GANs; only if the training process does not take longer than 10 hours)
-• size of the vocabulary or size of sequence used (RNNs; only if the training process does not take longer than 10 minutes)
-• embedding length (RNN; only if the training process does not take longer than 10 hours)
-
-5. Train and Evaluate
+   • learning rate or the type of Optimizer (GANs/RNNs)
    
-6. Explain the change and the new results.
+   • percentage of the Dropout (GANs/RNNs; usually for RNNs there are 2 dropout values)
+   
+   • size of the images (GANs; only if the training process does not take longer than 10 hours)
+   
+   • redesign or add a layer (GANs; only if the training process does not take longer than 10 hours)
+   
+   • size of the vocabulary or size of sequence used (RNNs; only if the training process does not take longer than 10 minutes)
+   
+   • embedding length (RNN; only if the training process does not take longer than 10 hours)
+
+6. Train and Evaluate
+   
+7. Explain the change and the new results.
